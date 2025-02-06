@@ -3,18 +3,18 @@ AAAI,https://aaai.org/Conferences/AAAI-20/aaai20call/,Y,Y,,,,,
 ACL,https://acl2020.org/calls/papers/,Y,Y,Y,https://acl2020.org/calls/papers/#important-anonymity-period,,,
 ASE,https://conf.researchr.org/track/ase-2020/ase-2020-papers,Y,Y,N,https://conf.researchr.org/track/ase-2020/ase-2020-papers#FAQs-on-Double-Blind,"Authors are discouraged from posting the submitted work on arXiv or a similar site immediately before or after submitting to the conference.",,
 ASPLOS,https://research.cs.wisc.edu/asplos-X/asplos-cfp.html,Y,Y,N,,,2002,https://web.archive.org/web/19980129125921/http://arch.cs.ucdavis.edu/ASPLOS98/cfp.html
-CAV,http://i-cav.org/2020/call-for-papers/,Y,Y,N,,"We do not discourage authors to put their submission on arXiv, but we strongly encourage authors to not put the work on arXiv around (within 1 week) or shortly after (within 1 month) the submission deadline, because potential reviewers may be subscribed to receive updates on recently posted papers.",,
+CAV,https://conferences.i-cav.org/2025/cfp/,Y,Y,N,,"We do not discourage authors to put their submission on arXiv, but we strongly encourage authors to not put the work on arXiv around (within 1 week) or shortly after (within 1 month) the submission deadline, because potential reviewers may be subscribed to receive updates on recently posted papers.",2016,https://i-cav.org/2016/call-for-papers/submission-and-double-blind-reviewing-faq/
 CCS,https://www.sigsac.org/ccs/CCS2020/call-for-papers.html,Y,Y,,,,,
 CRYPTO,https://crypto.iacr.org/2020/callforpapers.html,Y,Y,N,,,,
 CVPR,https://cvpr.thecvf.com/Conferences/2025/AuthorGuidelines,Y,Y,N,,,2013,https://pamitc.org/cvpr13/author_guidelines.html
 ECCV,https://eccv.ecva.net/Conferences/2024/SubmissionPolicies,Y,Y,N,,,2020,https://eccv2020.eu/author-instructions/
 EMNLP,https://2020.emnlp.org/call-for-papers,Y,Y,Y,https://www.emnlp-ijcnlp2019.org/calls/papers,,,
 EuroCrypt,https://eurocrypt.iacr.org/2020/callforpapers.html,Y,Y,N,,,,
-EuroSys,https://www.eurosys2020.org/call-for-papers/,Y,Y,,,,,
+EuroSys,https://www.eurosys2020.org/call-for-papers/,Y,Y,,,,2015,https://eurosys2015.labri.fr/calls/papers/
 FAST,https://www.usenix.org/conference/fast20/call-for-papers,Y,Y,,,,,
 FSE,https://2020.esec-fse.org/track/fse-2020-papers,Y,Y,N,,,,
 HPCA,https://www.hpca-conf.org/2020/calls/,Y,Y,,,,,
-ICML,https://icml.cc/Conferences/2020/CallForPapers,Y,Y,,,,,
+ICML,https://icml.cc/Conferences/2020/CallForPapers,Y,Y,,,,2008,https://icml.cc/Conferences/2008/cfp.shtml.html
 ICSE,https://conf.researchr.org/track/icse-2020/icse-2020-papers#Submitting-to-ICSE-Q-A,Y,Y,Y,,"You should not [...] post your work on ArXiV or a similar site just before or after submitting to the conference.",,
 IJCAI,https://ijcai20.org/call-for-papers.html,Y,Y,N,,,,
 ISCA,https://www.iscaconf.org/isca2020/submit/guidelines.html,Y,Y,N,,"Information about arXiv submission  must be provided on the submission form – the PC chair will make this information available to reviewers if it becomes necessary to ensure a fair review.",,
@@ -22,12 +22,12 @@ KDD,https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-research-papers,Y,Y
 MICRO,https://www.microarch.org/micro52/submit/guidelines.html,Y,Y,N,,"Information about arXiv submission  must be provided on the submission form – the PC chair will make this information available to reviewers if it becomes necessary to ensure a fair review.",,
 MobiCom,https://sigmobile.org/mobicom/2025/cfp.html,Y,Y,,,,1996,https://www.sigmobile.org/mobicom/1996/mobicom96-cfp.html
 NDSS,https://www.ndss-symposium.org/ndss2020/call-for-papers/,Y,Y,,,,,
-NeurIPS,https://nips.cc/Conferences/2019/CallForPapers,Y,Y,N,,,,
+NeurIPS,https://nips.cc/Conferences/2019/CallForPapers,Y,Y,N,,,2006,https://neurips.cc/Conferences/2006/Calls/Call%20For%20Papers
 NSDI,https://www.usenix.org/conference/nsdi25/call-for-papers,Y,Y,N,,,2017,https://www.usenix.org/legacy/events/nsdi06/cfp/
 Oakland (IEEE S&P),https://www.ieee-security.org/TC/SP2020/cfpapers.html,Y,Y,N,,,,
-OOPSLA,https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers,Y,Y,N,,"You may post to mailing lists, arxiv, social media, or another publicity channel about your work, but do not mention where the paper is submitted and do not use the exact, as-submitted title in the posting.",,
-OSDI,https://www.usenix.org/conference/osdi20/call-for-papers,Y,Y,,,,,
-PLDI,https://pldi20.sigplan.org/track/pldi-2020-papers#FAQ-on-Double-Blind-Reviewing,Y,Y,N,,,,,
+OOPSLA,https://2020.splashcon.org/track/splash-2020-oopsla#Call-for-Papers,Y,Y,N,,"You may post to mailing lists, arxiv, social media, or another publicity channel about your work, but do not mention where the paper is submitted and do not use the exact, as-submitted title in the posting.",2015,https://2015.splashcon.org/track/oopsla2015
+OSDI,https://www.usenix.org/conference/osdi25/call-for-papers,Y,Y,,,,2012,https://www.usenix.org/conference/osdi12
+PLDI,https://pldi25.sigplan.org/track/pldi-2025-papers#FAQ-on-Double-Blind-Reviewing,Y,Y,N,,,,2008,http://pldi2008.cs.ucr.edu
 PODS,https://2021.sigmod.org/calls_papers_pods_research.shtml,Y,Y,,,,,
 POPL,https://popl24.sigplan.org/track/POPL-2024-popl-research-papers,Y,Y,N,,,,,
 SenSys,http://sensys.acm.org/2020/cfp/,Y,Y,,,,
@@ -43,13 +43,13 @@ USENIX Security,https://www.usenix.org/sites/default/files/sec20_cfp_101519.pdf,
 WWW,https://www2020.thewebconf.org/call-for-contributions#instructions,Y,Y,N,,"If available online (e.g., via arXiv) and not anonymous, their titles and abstract must be sufficiently different from the submission",,
 CHI,https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/,Y,N,N,,,,
 UIST,https://uist.acm.org/uist2019/author-guide/index.html#ano,Y,N,N,,,,
-ICFP,https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers,Y,N,N,,,,
+ICFP,https://conf.researchr.org/track/icfp-2020/icfp-2020-papers#Call-for-Papers,Y,N,N,,,2016,https://icfp16.sigplan.org/track/icfp-2016-papers#Call-for-Papers
 ISSTA,https://conf.researchr.org/track/issta-2020/issta-2020-papers#Double-Blind-Reviewing,Y,,N,,,
 LICS,https://lics.siglog.org/lics20/cfp.php,Y,,N,,,
 MobiSys,https://www.sigmobile.org/mobisys/2020/cfp/,Y,,,,,
 STOC,http://acm-stoc.org/stoc2024/stoc2024-cfp.html,Y,Y,N,,"Double-blind starting 2024",,
 SODA,https://www.siam.org/conferences/cm/submissions-and-deadlines/soda22-submissions-deadlines,Y,N,N,,,,
-FOCS,https://focs.computer.org/2023/call-for-papers/#SubmissionInstructions,Y,Y,N,,,,
+FOCS,https://focs.computer.org/2023/call-for-papers/#SubmissionInstructions,Y,Y,N,,,2022,https://ieee-focs.org/focs2022/cfp.html
 ICDE,https://icde2024.github.io/CFP_research.html,,,,,,,
 ICRA,https://2024.ieee-icra.org/call-for-contributions.html,,,,,,,
 IROS,https://ieee-iros.org/call-for-papers/,,,,,,,,

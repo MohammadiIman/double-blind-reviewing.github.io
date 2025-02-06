@@ -45,7 +45,6 @@
 | [WWW](https://www2020.thewebconf.org/call-for-contributions#instructions)        | **Y** | **Y** | **N**(9) |  |  |
 | [STOC](http://acm-stoc.org/stoc2024/stoc2024-cfp.html)        | **Y** | **Y** | **N**(10) |  |  |
 | [FOCS](https://focs.computer.org/2023/call-for-papers/#SubmissionInstructions)        | **Y** | **Y** | **N** |  |  |
-
 | _partially double-blind conferences_ |  |  |  |  |  |
 | [CHI](https://chi2020.acm.org/authors/papers/chi-anonymisation-policy/)        | **Y** | **N** | **N** |  |  |
 | [UIST](https://uist.acm.org/uist2019/author-guide/index.html#ano)        | **Y** | **N** | **N** |  |  |
@@ -54,13 +53,13 @@
 | [LICS](https://lics.siglog.org/lics20/cfp.php)        | **Y** |  | **N** |  |  |
 | [MobiSys](https://www.sigmobile.org/mobisys/2020/cfp/)        | **Y** |  |  |  |  |
 | [SODA](https://www.siam.org/conferences/cm/submissions-and-deadlines/soda22-submissions-deadlines)        | **Y** | **N** | **N** |  |  |
-
 | _single-blind conferences_ |  |  |  |  |  |
 | [ICDE](https://icde2024.github.io/CFP_research.html)        |  |  |  |  |  |
 | [ICRA](https://2024.ieee-icra.org/call-for-contributions.html)        |  |  |  |  |  |
 | [IROS](https://ieee-iros.org/call-for-papers/)        |  |  |  |  |  |
 | [VLDB](http://vldb.org/pvldb/vol15-submission/)        |  |  |  |  |  |
 
+---
 
  * (1): [ASE] Authors are discouraged from posting the submitted work on arXiv or a similar site immediately before or after submitting to the conference.
  * (2): [CAV] We do not discourage authors to put their submission on arXiv, but we strongly encourage authors to not put the work on arXiv around (within 1 week) or shortly after (within 1 month) the submission deadline, because potential reviewers may be subscribed to receive updates on recently posted papers.
