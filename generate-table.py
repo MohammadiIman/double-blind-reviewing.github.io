@@ -5,7 +5,7 @@ partially = []
 single = []
 notes = []
 
-with open('double-blind.csv', 'r') as f:
+with open('double-blind.csv', 'r', encoding='utf-8') as f:
     reader = csv.DictReader(f)
     for row in reader:
         partial = ""
@@ -26,18 +26,30 @@ with open('double-blind.csv', 'r') as f:
                 arxiv_notes = f"[{restricted}]({row['url2']})({len(notes)})"
             else:
                 arxiv_notes = f"[{restricted}]({row['url2']})"
-        str = f"| [{row['conference']}]({row['url']})        | {partial}     | {full} | {arxiv_notes} |"
+        
+        transition_year = row.get('transition_year', '')
+        citation = ""
+        if row.get('transition_citation', ''):
+            citation = f"[Link]({row['transition_citation']})"
+        
+        row_str = (
+            f"| [{row['conference']}]({row['url']}) | {partial} | {full} | "
+            f"{arxiv_notes} | {transition_year} | {citation} |"
+        )
+        
         if row['partial'] == 'Y':
             if row['full'] == 'Y':
-                fully.append(str)
+                fully.append(row_str)
             else:
-                partially.append(str)
+                partially.append(row_str)
         else:
-            single.append(str)
+            single.append(row_str)
 
-print("""| Conference | At least partially double-blind? | Fully double-blind (blind to accept)? | arXiv restricted? |
-| :--        | :--:      | :--:    | :--:    |
-|            |           |         |         |""")
+print(
+    """| Conference | At least partially double-blind? | Fully double-blind (blind to accept)? | arXiv restricted? | Transition Year | Citation |
+| :--        | :--:                             | :--:                                   | :--:            | :--:           | :--:     |
+|            |                                  |                                        |                 |                |          |"""
+)
 
 print("| _fully double-blind conferences_ | |")
 print(*fully, sep='\n')
@@ -49,7 +61,7 @@ print("| _single-blind conferences_ | |")
 print(*single, sep='\n')
 
 print("")
-for (index, string) in enumerate(notes):
+for index, string in enumerate(notes):
     print(f" * ({index+1}): {string}")
 
 print("")
